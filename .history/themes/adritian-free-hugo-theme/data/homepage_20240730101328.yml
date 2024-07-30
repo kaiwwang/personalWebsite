@@ -11,10 +11,10 @@ showcase:
     Welcome to my personal website. I am Kai, a 2024 graduate of the <a target='_blank' href='https://www.gla.ac.uk/'>University of Glasgow</a> with a BSc degree in computer science. 
     Currently, I am a summer intern at <a target='_blank' href='https://epsrc-stardust.github.io'>StarDust</a> team. 
   image:
-    x: "images/showcase/zhege.png"
-    _2x: "images/showcase/zhege.png"
+    x: "images/showcase/zhefge.png"
+    _2x: "images/showcase/zhefge.png"
   imageMobile:
-    x: "images/showcase/zhege.png"
+    x: "images/showcase/zhefge.png"
 
   button:
     icon: "icon-mail-fill"

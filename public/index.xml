@@ -6,6 +6,28 @@
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jun 2024 14:38:33 +0200</lastBuildDate>
     <atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBC...</title>
+      <link>https://www.adrianmoreno.info/blog/sample/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Final Year Project</title>
+      <link>https://www.adrianmoreno.info/experience/graduatedesign/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>https://www.adrianmoreno.info/experience/graduatedesign/</guid>
+      <description>Concurrent Runtime for Pat Language My final year project focused on tackling the complexities of concurrent programming, such as thread deadlocks and communication mismatches.&#xA;Building upon the foundation of the Pat language created by my supervisor, I developed a concurrent runtime for Pat. Pat introduces a mailbox type system and concurrent programming primitives to tightly constrain concurrent tasks and communication flows.&#xA;Although Pat had an existing type checker, it lacked a runtime interpreter.</description>
+    </item>
+    <item>
+      <title>Intern - StarDust Project</title>
+      <link>https://www.adrianmoreno.info/experience/stardust/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>https://www.adrianmoreno.info/experience/stardust/</guid>
+      <description>First intern as developer During my summer internship with the StarDust team at the University of Glasgow, I worked on a groundbreaking project involving Pat, the first programming language to implement mailbox type checking. The project entailed designing a &amp;ldquo;mailboxer&amp;rdquo; to convert Erlang code into Pat for type checking and then convert it back.&#xA;My responsibilities included identifying and resolving bugs within the &amp;ldquo;mailboxer&amp;rdquo; and enhancing Pat&amp;rsquo;s error reporting system by adding precise error position and source code display features.</description>
+    </item>
   </channel>
 </rss>

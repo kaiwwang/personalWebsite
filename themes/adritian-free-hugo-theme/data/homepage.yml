@@ -11,10 +11,10 @@ showcase:
     Welcome to my personal website. I am Kai, a 2024 graduate of the <a target='_blank' href='https://www.gla.ac.uk/'>University of Glasgow</a> with a BSc degree in computer science. 
     Currently, I am a summer intern at <a target='_blank' href='https://epsrc-stardust.github.io'>StarDust</a> team. 
   image:
-    x: "images/showcase/zhege.png"
-    _2x: "images/showcase/zhege.png"
+    x: "images/showcase/IMG_6977.JPG"
+    _2x: "images/showcase/IMG_6977.JPG"
   imageMobile:
-    x: "images/showcase/zhege.png"
+    x: "images/showcase/IMG_6977.JPG"
 
   button:
     icon: "icon-mail-fill"
@@ -44,10 +44,6 @@ about:
       <p class="lead">
       This website serves as a space to share my projects, research interests, and insights.
     </p>
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/kai-wang-3621b4264/"
   image:
     x: "images/who-am-i/IMG_0791 2.jpg"
     _2x: "images/who-am-i/IMG_0791 2.jpg"
@@ -59,35 +55,19 @@ education:
   items:
     - university: "University of Glasgow"
       year: "2020-2024"
-      degree: "Bachelor of Science (BSc)"
+      degree: "Bachelor of Science in Computing Science(Honour)"
+      gpa: "3.79/4.0"
 
 # experience
 experience:
   enable: true
   title: "Experience"
   description: >
-    Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives.
+    With a strong foundation in computer science and hands-on experience in tackling complex challenges, I have consistently contributed to innovative projects.
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
     URL: "https://www.linkedin.com/in/adrianmoreno/"
-  # button2:
-  #   icon: "icon-profile-fill"
-  #   btnText: "Download My Resume"
-  #   URL: "#"
-
-  # items:
-  #   - title: "Sr. Title"
-  #     company: "Serious Business, Inc"
-  #     duration: "Feb 2011 - Sep 2019"
-
-  #   - title: "Sr. Title"
-  #     company: "Fancy Company, Inc"
-  #     duration: "Apr 2010 - Jan 2011"
-
-  #   - title: "Jr. Title"
-  #     company: "Company, Inc"
-  #     duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 # client_and_work:
@@ -186,7 +166,7 @@ experience:
 #         _2x: "images/testimonials/antonio-willis@2x.jpg"
 
 # contact
-# contact:
+#contact:
 #   enable: true
 #   title: "Contact"
 #   form:

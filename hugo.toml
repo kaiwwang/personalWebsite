@@ -30,9 +30,14 @@ theme = "adritian-free-hugo-theme"
   URL = "#about"
   weight = 2
 
-  [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+#  [[menu.header]]
+#  name = "Portfolio"
+#  URL = "#portfolio"
+#  weight = 3
+
+[[menu.header]]
+  name = "Experience"
+  URL = "#experience"
   weight = 3
 
   [[menu.header]]
@@ -40,25 +45,30 @@ theme = "adritian-free-hugo-theme"
   URL = "/blog"
   weight = 4
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 5
+#  [[menu.header]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 5
 
   [[menu.footer]]
   name = "About"
   URL = "#about"
   weight = 2
 
-  [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+[[menu.footer]]
+  name = "Experience"
+  URL = "#experience"
   weight = 3
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+[[menu.footer]]
+name = "Blog"
+URL = "/blog"
+weight = 4
+
+#  [[menu.footer]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 4
 
 
 [params]
@@ -75,11 +85,10 @@ theme = "adritian-free-hugo-theme"
       enabled = false
   
   [params.logo]
-    text1 = "Cool"
-    text2 = "Name"
+    text1 = "Kai"
+    text2 = "Wang"
 
   [params.footer]
-      copyright = "© Adritian. Free Hugo theme by Adrián Moreno Peña."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
