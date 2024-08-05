@@ -19,7 +19,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:info@walkerwang.com"
+    URL: "mailto:walkerwang00@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
