@@ -9,7 +9,7 @@ showcase:
   subtitle: "Looking for a Software Development role."
   description: >
     Welcome to my personal website. I am Kai, a 2024 graduate of the <a target='_blank' href='https://www.gla.ac.uk/'>University of Glasgow</a> with a BSc degree in computer science. 
-    Currently, I am a summer intern at <a target='_blank' href='https://epsrc-stardust.github.io'>StarDust</a> team. 
+    Currently, I finished a summer intern at <a target='_blank' href='https://epsrc-stardust.github.io'>StarDust</a> team.
   image:
     x: "images/showcase/IMG_6977.JPG"
     _2x: "images/showcase/IMG_6977.JPG"
@@ -56,7 +56,7 @@ education:
     - university: "University of Glasgow"
       year: "2020-2024"
       degree: "Bachelor of Science in Computing Science(Honour)"
-      gpa: "3.79/4.0"
+      gpa: "69/100"
 
 # experience
 experience:
