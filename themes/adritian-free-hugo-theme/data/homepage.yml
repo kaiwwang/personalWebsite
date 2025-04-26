@@ -6,7 +6,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Kai."
-  subtitle: "Looking for a Software Development role."
+  subtitle: "Looking for a PhD opportunity in Computer Science."
   description: >
     Welcome to my personal website. I am Kai, a 2024 graduate of the <a target='_blank' href='https://www.gla.ac.uk/'>University of Glasgow</a> with a BSc degree in computer science. 
     Currently, I finished a summer intern at <a target='_blank' href='https://epsrc-stardust.github.io'>StarDust</a> team.
@@ -56,7 +56,7 @@ education:
     - university: "University of Glasgow"
       year: "2020-2024"
       degree: "Bachelor of Science in Computing Science(Honour)"
-      gpa: "69/100"
+      gpa: "3.7/4"
 
 # experience
 experience:
